@@ -1,0 +1,15 @@
+# ==== Essenciais ====
+sqlite3               # Módulo padrão do Python (não precisa instalar, mas listado por clareza)
+pandas                # Manipulação de dados (CSV, XLSX, tabelas)
+python-dateutil       # Manipulação de datas
+tabulate              # Formatar tabelas no console
+
+# ==== Import/Export de dados ====
+openpyxl              # Leitura e escrita de arquivos Excel (.xlsx)
+xlrd                  # Leitura de arquivos Excel antigos (.xls)
+csv                   # Módulo padrão do Python (para CSV)
+
+# ==== Visualização e análise ====
+matplotlib            # Gráficos básicos
+seaborn               # Gráficos estatísticos mais elaborados
+plotly                # Gráficos interativos (opcional)
